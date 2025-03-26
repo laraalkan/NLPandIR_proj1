@@ -1,0 +1,78 @@
+CHINA'S ARTIFICIAL INTELLIGENCE BOOM MIGHT HELP MITIGATE SOME TARIFF
+PAIN 
+
+Computer chip with Chinese flag, 3d conceptual illustration.
+Steven Mcdowell/science Photo Library | Science Photo Library | Getty
+Images
+
+BEIJING — For Chinese companies wary of U.S. tariffs, the big
+difference between President Donald Trump's first and second terms is
+the emergence of generative artificial intelligence.
+
+Chinese companies are hard at work. Nearly every day in the last two
+weeks, a Chinese firm has announced a new AI product — or how
+they're making money with the tech.
+
+To name a few:
+
+Short-video company Kuaishou said Tuesday its AI tool for generating
+videos, Kling, has raked in more than 100 million yuan ($13.78
+million) since its launch last summer.
+
+Tencent last week updated its AI model for generating 3D visuals —
+which can be used in games or for 3D printing — and released the
+full version of its Hunyuan T1 reasoning model. A few weeks earlier,
+Tencent had integrated T1 with its Yuanbao chatbot app that also lets
+users tap DeepSeek's R1.
+
+Daily active Yuanbao users surged by 20 times in just a month, Tencent
+said last week. The company also shared how some farmers have used the
+AI app to analyze soil conditions for planting.
+
+Baidu on Monday launched tools for people to build websites and simple
+games with conversational prompts instead of having to write code.
+Kunlun Tech, parent of browser Opera, on Wednesday upgraded its Mureka
+app for using AI to generate music.
+
+As a manufacturing hub, China has "great advantages in terms of
+'physical' AI" since the country has lots of machines that can collect
+valuable data for training industry-specific models, Maxwell Zhou, CEO
+of autonomous-driving software company DeepRoute.ai, told CNBC on
+Friday in Mandarin, translated by CNBC.
+
+DeepRoute.ai, launched in 2019, announced last week it was building a
+system for autonomous-delivery vehicles to send parcels with simple
+voice commands such as "pick up coffee from this store and send it to
+the apartment."
+
+Zhou said he hopes the system to be operational in China by early next
+year.
+
+While it's unclear which AI companies will ultimately succeed,
+analysts expect Chinese businesses stand a better chance at excelling
+with the help of AI applications. AI tools could cut costs for
+companies and offset some of the impact of an economic slowdown.
+
+The combined impact of the tech is lifting expectations for Chinese
+corporate earnings growth in the year ahead, said Ding Wenjie,
+investment strategist for global capital investment at China Asset
+Management.
+
+Earnings will signal whether the economy is really turning around,
+especially under the pressure of tariffs and other trade restrictions.
+
+Goldman Sachs in early February estimated a 20% increase in U.S.
+tariffs on Chinese goods could shave off 5% in Chinese corporate
+earnings, in Hong Kong dollar terms.
+
+The greater question for the U.S. and China, however, stretches beyond
+tariffs.
+
+After a visit to China this week for a conference, New York Times
+columnist Thomas Friedman concluded that it was not tariffs or Taiwan
+that the U.S. and Chinese presidents needed to discuss immediately —
+but rather AI that's as smart as humans and pervades the world.
+
+The author of "The World is Flat" likened a possible U.S.-China
+collaboration on AI to the Soviet-U.S. nuclear arms control deal.
+
